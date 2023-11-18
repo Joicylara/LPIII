@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947544463764",
+    "project_id": "apliclpiii",
+    "storage_bucket": "apliclpiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947544463764:android:556ed082e91155eee49781",
+        "android_client_info": {
+          "package_name": "com.example.aplicacao_lpiii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-Aj-B0pSGtuhO9L7pSEBjpNFyAe2O3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
